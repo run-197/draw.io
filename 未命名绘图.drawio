@@ -19,31 +19,31 @@
         <mxCell id="l0Bv46GPiHosgIMZAVs4-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 4 1 4;" parent="1" vertex="1">
           <mxGeometry x="190" y="330" width="420" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="l0Bv46GPiHosgIMZAVs4-5" value="Protocol" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="l0Bv46GPiHosgIMZAVs4-5" value="Protocol" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="120" y="258" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l0Bv46GPiHosgIMZAVs4-6" value="Distributed File System" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="l0Bv46GPiHosgIMZAVs4-6" value="Distributed Storage System" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="120" y="330" width="60" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="l0Bv46GPiHosgIMZAVs4-7" value="Operate system" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="l0Bv46GPiHosgIMZAVs4-7" value="Operate system" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="120" y="490" width="490" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="l0Bv46GPiHosgIMZAVs4-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="l0Bv46GPiHosgIMZAVs4-8" value="Metrics Exporter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="620" y="210" width="60" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="GT_kMzdB8OmJdrDRnJKH-1" value="UDOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GT_kMzdB8OmJdrDRnJKH-1" value="Unified Storage Pool" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="400" width="400" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GT_kMzdB8OmJdrDRnJKH-2" value="DFS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GT_kMzdB8OmJdrDRnJKH-2" value="DFS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="337" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GT_kMzdB8OmJdrDRnJKH-3" value="DBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GT_kMzdB8OmJdrDRnJKH-3" value="DBS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="200" y="337" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GT_kMzdB8OmJdrDRnJKH-4" value="DOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GT_kMzdB8OmJdrDRnJKH-4" value="DOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="340" y="337" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GT_kMzdB8OmJdrDRnJKH-5" value="Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GT_kMzdB8OmJdrDRnJKH-5" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="120" y="210" width="490" height="40" as="geometry" />
         </mxCell>
       </root>
